@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Pacifico") ;
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/btn-blanc.css");
+@import url("components/logo.css");
+
+
+
+.container {
+  width: auto;
+  margin:100px auto;
+}
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  margin: 0px;
+  text-align: center;
+}
+h1, h2, h3,{
+  font-family:'Pacifico', sans-serif;
+  font-weight: bold;
+}
+  
+a {
+  text-decoration: none;  
+  font-family: 'Pacifico' ;
+  font-size: 24px;
+  color: #F9943B;
+}
+
+h1 {
+  color: #F9943B;
+  font-size: 64px;
+  font-family: pacifico, sans-serif;
+  font-weight: bold;
+
+
+}
+
+h2 {
+  font-size: 45px;
+  font-family: pacifico, sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: pacifico, sans-serif;
+  font-weight: bold;
+}
+
+h4 {
+  color: #F9943B;
+  font-size: 30px;
+  font-family: pacifico, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin: 9px;
+}
+
+
+
+.card-grey {
+  background-color: grey;
+  padding: 23px;
+  margin:4px 0px;
+  border-radius: 6px;
+  text-align: center;
+  width: 195px;
+  height: 294px;
+
+}
+
+.card-white {
+  background-color: white;
+  padding: 23px;
+  margin:4px 0px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,.3);
+  text-align: center;
+  width: 395px;
+  height: 494px;
+}
+
+
+
+.card-grey2 {
+  background-color: #CFCFCF;
+  padding: 23px;
+  margin:28px 18px;
+  text-align: center;
+  width: 295px;
+  height: 44px;
+}
+
+.card-orange {
+  background-color: #F9943B;
+  padding: 23px;
+  margin:28px 18px;
+  text-align: center;
+  width: 295px;
+  height: 44px;
+
+}
+
